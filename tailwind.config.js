@@ -9,7 +9,7 @@ module.exports = {
         inter: ['"Inter"', ...defaultTheme.fontFamily.sans]
       },
       spacing: {
-        '128': '30rem',
+        '128': '35rem',
       },
       colors: {
         green: 'hsl(75, 94%, 57%)',
@@ -17,6 +17,7 @@ module.exports = {
         grey700: 'hsl(0, 0%, 20%)',
         grey800: 'hsl(0, 0%, 12%)',
         grey900: 'hsl(0, 0%, 8%)',
+        linkColor: 'hsl(228, 45%, 44%)',
       }
     },
   },
